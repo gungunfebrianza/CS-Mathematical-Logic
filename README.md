@@ -13,7 +13,13 @@ Mathematical logic is used in scientific papers for several key reasons:
 
 This formal approach helps ensure research is rigorous, reproducible, and can be built upon by other scientists.
 
-## Dice Probability
+
+
+## Example : Dice Probability
+
+Notes : LaTex Notation for Typora Editor.
+
+
 
 Probability of rolling any single number (e.g., getting a 6):
 $$
@@ -36,4 +42,6 @@ $$
 E(X) = \sum_{i=1}^{6} i \cdot P(X = i) = \frac{1+2+3+4+5+6}{6} = \frac{21}{6} = 3.5
 $$
 
+
+---
 
